@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: Myron
-  host: Myron
+  name: loop777
+  host: loop777
   disk_quota: 1024M
